@@ -1,1 +1,1 @@
-print("hello, I am your mental health chatbot!")
+print("hello, I am your mental health chatbot")
